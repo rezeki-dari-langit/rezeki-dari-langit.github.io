@@ -6,6 +6,19 @@ permalink: /tentang/
 
 Di PT. Rezeki dari Langit, kami berdedikasi untuk membantu klien mencapai tujuan keuangan mereka melalui strategi investasi yang cerdas dan terukur. Sebagai perusahaan manajemen investasi terkemuka, kami menggabungkan pengetahuan pasar untuk memberikan solusi investasi yang disesuaikan dengan kebutuhan individu. Dengan pengalaman yang ada, kami menawarkan pendekatan yang transparan, bertanggung jawab, dan berbasis data untuk mengelola aset Anda dengan bijaksana.
 
+### Visi
+
+Visi kami adalah menjadi perusahaan manajemen investasi yang memberikan solusi keuangan inovatif dan berkelanjutan, serta memberdayakan masyarakat untuk mencapai kesejahteraan finansial.
+
+### Misi
+
+1. Memberikan layanan manajemen investasi yang transparan, terpercaya, dan berbasis kebutuhan klien.
+2. Mengoptimalkan potensi pertumbuhan investasi melalui strategi yang cerdas, inovatif, dan berbasis data.
+3. Membangun hubungan jangka panjang yang kokoh dengan klien berdasarkan kepercayaan, profesionalisme, dan hasil yang konsisten.
+4. Berkomitmen untuk terus belajar dan beradaptasi dengan perubahan pasar global guna memberikan solusi terbaik di setiap situasi.
+
+Visi dan misi ini mencerminkan semangat PT Rezeki dari Langit dalam menjadi mitra terpercaya dalam perjalanan investasi Anda.
+
 ### Pendekatan Kami
 
 Kami memahami bahwa setiap investor memiliki tujuan dan toleransi risiko yang unik. Oleh karena itu, kami menyusun strategi investasi yang sesuai dengan profil risiko dan sasaran keuangan Anda. Tim ahli kami bekerja dengan cermat untuk merancang portofolio yang beragam, mengoptimalkan potensi keuntungan, dan meminimalkan risiko. Kami juga berkomitmen untuk terus memantau dan menyesuaikan strategi sesuai dengan perkembangan pasar global dan kebutuhan klien.
