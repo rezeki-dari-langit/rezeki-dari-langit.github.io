@@ -4,6 +4,11 @@ title: Tentang Kami
 permalink: /tentang/
 ---
 
+<img src="/assets/logo-rezeki-dari-langit.png" alt="PT. Rezeki dari Langit" style="width:150px; height:150px"/>
+
+<!-- ![PT. Rezeki dari Langit](/assets/logo-rezeki-dari-langit.png "PT. Rezeki dari Langit") -->
+
+
 Di PT. Rezeki dari Langit, kami berdedikasi untuk membantu klien mencapai tujuan keuangan mereka melalui strategi investasi yang cerdas dan terukur. Sebagai perusahaan manajemen investasi terkemuka, kami menggabungkan pengetahuan pasar untuk memberikan solusi investasi yang disesuaikan dengan kebutuhan individu. Dengan pengalaman yang ada, kami menawarkan pendekatan yang transparan, bertanggung jawab, dan berbasis data untuk mengelola aset Anda dengan bijaksana.
 
 ### Visi
