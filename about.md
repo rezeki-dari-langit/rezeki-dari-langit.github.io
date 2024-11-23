@@ -31,7 +31,9 @@ Keberhasilan klien adalah prioritas utama kami. Di PT. Rezeki dari Langit, kami 
 
 ### Legalitas
 
-PT. Rezeki dari Langit berkedudukan di Bogor. Perseroan ini berdiri sejak 8 November 2024. Perseroan ini telah terdaftar sebagai badan hukum dan tercatat dalam pangkalan data Direktorat Jenderal Administrasi Hukum Umum Kementerian Hukum dan Hak Asasi Manusia Rebublik Indonesia dengan nomor AHU-066448.AH.01.30.Tahun 2024.
+PT. Rezeki dari Langit berkedudukan di Bogor. Perseroan ini berdiri sejak 8 November 2024. Perseroan ini telah terdaftar sebagai badan hukum dan tercatat dalam pangkalan data Direktorat Jenderal Administrasi Hukum Umum Kementerian Hukum dan Hak Asasi Manusia Rebublik Indonesia dengan nomor sertifikat pendirian AHU-066448.AH.01.30.Tahun 2024.
+
+Sekilas, bisa dicek melalui tautan ini: [Website Administrasi Hukum Umum, Cek profil](https://ptp.ahu.go.id/profil/cari?q=rezeki+dari+langit) 
 
 ### Harapan
 
