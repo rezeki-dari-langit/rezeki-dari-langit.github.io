@@ -29,10 +29,10 @@ Kami memahami bahwa setiap investor memiliki tujuan dan toleransi risiko yang un
 
 Keberhasilan klien adalah prioritas utama kami. Di PT. Rezeki dari Langit, kami percaya bahwa hubungan yang kuat dan saling percaya adalah kunci dalam mencapai hasil yang optimal. Kami memberikan pelayanan yang penuh perhatian, menjawab pertanyaan Anda dengan jelas, dan selalu siap memberikan wawasan yang berguna untuk membantu Anda membuat keputusan investasi yang lebih baik. Dengan dukungan tim profesional kami, Anda dapat merasa yakin bahwa investasi Anda berada di tangan yang tepat.
 
+### Legalitas
+
+PT. Rezeki dari Langit berkedudukan di Bogor. Perseroan ini berdiri sejak 8 November 2024. Perseroan ini telah terdaftar sebagai badan hukum dan tercatat dalam pangkalan data Direktorat Jenderal Administrasi Hukum Umum Kementerian Hukum dan Hak Asasi Manusia Rebublik Indonesia dengan nomor AHU-066448.AH.01.30.Tahun 2024.
+
 ### Harapan
 
 Semoga para klien kami mendapatkan rezeki yang melimpah dari "langit". Aamiin yaa robbal 'aalamiin.
-
-### Lokasi Kami
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126854.28868670954!2d106.6631572141425!3d-6.496786061941612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c35c6d5a8a51%3A0xf181f2edfed08de3!2sPT.%20Rezeki%20dari%20Langit!5e0!3m2!1sid!2sid!4v1732368522494!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
