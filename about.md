@@ -4,8 +4,6 @@ title: Tentang Kami
 permalink: /tentang/
 ---
 
-<img src="/assets/logo-rezeki-dari-langit.png" alt="PT. Rezeki dari Langit" style="width:150px; height:150px"/>
-
 Di PT. Rezeki dari Langit, kami berdedikasi untuk membantu klien mencapai tujuan keuangan mereka melalui strategi investasi yang cerdas dan terukur. Sebagai perusahaan manajemen investasi terkemuka, kami menggabungkan pengetahuan pasar untuk memberikan solusi investasi yang disesuaikan dengan kebutuhan individu. Dengan pengalaman yang ada, kami menawarkan pendekatan yang transparan, bertanggung jawab, dan berbasis data untuk mengelola aset Anda dengan bijaksana.
 
 ### Visi
@@ -34,6 +32,10 @@ Keberhasilan klien adalah prioritas utama kami. Di PT. Rezeki dari Langit, kami 
 PT. Rezeki dari Langit berkedudukan di Bogor. Perseroan ini berdiri sejak 8 November 2024. Perseroan ini telah terdaftar sebagai badan hukum dan tercatat dalam pangkalan data Direktorat Jenderal Administrasi Hukum Umum Kementerian Hukum dan Hak Asasi Manusia Rebublik Indonesia dengan nomor sertifikat pendirian AHU-066448.AH.01.30.Tahun 2024.
 
 Sekilas, bisa dicek melalui tautan ini: [Website Administrasi Hukum Umum, Cek profil](https://ptp.ahu.go.id/profil/cari?q=rezeki+dari+langit) 
+
+### Profil di Google Map
+
+PT. Rezeki dari Langit telah terdaftar di Google Map dengan tautan berikut [https://maps.app.goo.gl/PhNRSVgghjCiR3YR6](https://maps.app.goo.gl/PhNRSVgghjCiR3YR6)
 
 ### Harapan
 
