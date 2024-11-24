@@ -12,6 +12,8 @@ Dalam setiap usaha, penamaan sebuah perusahaan tidak hanya sekadar formalitas ad
 
 Keberkahan dalam usaha tidak hanya dilihat dari hasil materi yang diperoleh, namun juga dari ketenangan batin, kepuasan hati, dan manfaat yang dirasakan oleh banyak orang. Oleh karena itu, PT. Rezeki dari Langit diharapkan menjadi wadah bagi setiap karyawan, mitra, dan konsumen untuk merasakan keberkahan dalam setiap langkah bisnis yang diambil.
 
+Dalam kitab suci Alquran terdapat beberapa ayat yang menyampaikan mengenai rezeki dari langit. Diantaranya, [QS 045:006](https://www.openquran.com/search?query=45%3A6),  [QS 051:023](https://www.openquran.com/search?query=51%3A23), [QS 002:023](https://www.openquran.com/search?query=2%3A23), [QS 5:115](https://www.openquran.com/search?query=5%3A115), [QS 010:032](https://www.openquran.com/search?query=10%3A32), [QS 014:033](https://www.openquran.com/search?query=14%3A33), [QS 016:074](https://www.openquran.com/search?query=16%3A74), [QS 027:065](https://www.openquran.com/search?query=27%3A65), [QS 034:025](https://www.openquran.com/search?query=34%3A25) dan [QS 35:4](https://www.openquran.com/search?query=35%3A4).
+
 ### Menghadirkan Keberkahan dalam Bisnis
 
 Sebagai sebuah perusahaan yang bergerak di sektor ekonomi, PT. Rezeki dari Langit berkomitmen untuk menjaga integritas, transparansi, dan etika bisnis yang tinggi. Kami percaya bahwa dengan berbisnis secara jujur dan berlandaskan nilai-nilai kemanusiaan, kami tidak hanya memperoleh keuntungan finansial, tetapi juga membawa manfaat bagi masyarakat luas.
