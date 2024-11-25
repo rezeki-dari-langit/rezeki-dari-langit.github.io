@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang Kami
+title: Tentang
 permalink: /tentang/
 ---
 
